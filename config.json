@@ -1,11 +1,11 @@
 {
-    "latest_version": "2.8",
+    "latest_version": "2.9",
     "update_url": "https://www.mediafire.com/file/v40kpezts1iirld/app-release.apk/file",
     "force_update": true,
     "release_notes": [
         "Some bugs fixed",
         "Config update fixed",
-        "v2Ray improved",
+        "Export timer improved",
         "Performance improved",
         "Clean & Optimize"
     ]
