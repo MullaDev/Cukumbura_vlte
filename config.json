@@ -1,13 +1,14 @@
 {
-    "latest_version": "2.8",
-    "update_url": "https://www.mediafire.com/file/ngnrmg7nv8r4ub5/DemonVPN_2.8.apk/file",
+    "latest_version": "2.9",
+    "update_url": "https://t.me/addlist/rxTXxK44daVlNjE8",
     "force_update": true,
     "release_notes": [
         "Some bugs fixed",
         "Config update fixed",
         "Export timer improved",
         "Wifitether working",
-        "v2ray 1 tap connected",
+        "Custom Proxy Mode added",
+       "Slow Dns Mode improved now working",
         "Performance improved",
         "Clean & Optimize"
     ]
